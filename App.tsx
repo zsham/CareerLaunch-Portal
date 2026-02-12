@@ -236,7 +236,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="mt-12 py-8 border-t border-gray-100 text-center text-gray-400 text-sm">
-        <p>&copy; 2024 CareerLaunch Portal. Powered by Gemini AI.</p>
+        <p>&copy; {new Date().getFullYear()} CareerLaunch Portal. Powered by Pablo84Studio.</p>
       </footer>
     </div>
   );
