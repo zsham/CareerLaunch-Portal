@@ -1,0 +1,5 @@
+{
+  "name": "CareerLaunch Portal",
+  "description": "A modern job application platform where admins can post roles and users can apply for their top 3 picks with AI-powered feedback.",
+  "requestFramePermissions": []
+}
